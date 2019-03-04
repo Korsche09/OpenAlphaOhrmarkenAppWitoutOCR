@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NummerSortierung</string>
+    <string name="ohrmarkennummer">OhrmarkenNummer</string>
+    <string name="btnSendText">Eintragen</string>
+    <string name="btnSort">Alle Anzeigen und Sortieren</string>
+    <string name="btnReset">resetListe</string>
+    <string name="hier_bitte_die_nummer_eintragen">Hier bitte die Nummer eintragen:</string>
+    <string name="menumail">Email Optionen</string>
+</resources>
